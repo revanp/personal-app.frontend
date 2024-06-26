@@ -1,0 +1,9 @@
+[plugins]
+pnpm = "https://github.com/jonathanmorley/asdf-pnpm.git#305baff"
+
+[tools]
+node = "latest"
+pnpm = "9.4.0"
+
+[env]
+_.file = '.env.local'
